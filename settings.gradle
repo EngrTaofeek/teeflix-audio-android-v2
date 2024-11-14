@@ -15,4 +15,5 @@ pluginManagement {
 //}
 rootProject.name = "uduX"
 include ':app'
+include ':mediaplayer'
 include ':Authentication'
